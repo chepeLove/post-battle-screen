@@ -1,0 +1,15 @@
+.playerCard {
+	border: 1px solid #ccc;
+	padding: 10px;
+	margin: 5px;
+	border-radius: 5px;
+	position: relative;
+}
+
+.alive {
+	background-color: #d4edda;
+}
+
+.dead {
+	background-color: #f8d7da;
+}

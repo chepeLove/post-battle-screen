@@ -1,0 +1,15 @@
+.card {
+	border: 1px solid #ccc;
+	padding: 10px;
+	margin: 5px;
+	border-radius: 5px;
+	position: relative;
+}
+
+.card.alive {
+	background-color: #d4edda;
+}
+
+.card.dead {
+	background-color: #f8d7da;
+}
