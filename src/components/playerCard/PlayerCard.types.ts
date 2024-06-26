@@ -1,3 +1,5 @@
+import type { Player } from '@/types'
+
 export interface PlayerCardProps {
-	player: any
+	player: Player
 }
